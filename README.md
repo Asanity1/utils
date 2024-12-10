@@ -1,6 +1,6 @@
 # Loader
 ```lua
-loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/strsplspace/utils/main/cenv.lua'))();
+loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/Asanity1/utils/refs/heads/main/cenv.lua'))();
 ```
 # Usage
 
